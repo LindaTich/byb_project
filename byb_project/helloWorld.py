@@ -1,4 +1,4 @@
-greeting = print("Git is Awesome")
+user_greeting = print("Git is Awesome")
 
 # The variable here is named greeting
 
